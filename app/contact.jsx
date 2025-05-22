@@ -5,7 +5,6 @@ const Contact = () => {
 	return (
 		<View style={styles.container}>
 			<Text style={styles.title}>Contact Page</Text>
-			<Link href="/" style={styles.link}>Home page</Link>
 		</View>
 	)
 }

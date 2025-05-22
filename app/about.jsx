@@ -5,7 +5,6 @@ const About = () => {
 	return (
 		<View style={styles.container}>
 			<Text style={styles.title}>About Page</Text>
-			<Link href="/" style={styles.link}>Home page</Link>
 		</View>
 	)
 }
